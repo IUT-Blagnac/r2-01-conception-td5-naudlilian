@@ -143,6 +143,8 @@ inclut dans plusieurs UC. Si ce n'est pas le cas, il est généralement englobé
 . ajouter les relations
 . finaliser les diagrammes de cas d'utilisation
 
+=== Exercices
+
 === Description du sujet
 
 Une entreprise de construction souhaite informatiser la gestion de ses chantiers.
