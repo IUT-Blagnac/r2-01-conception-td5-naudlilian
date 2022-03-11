@@ -1,4 +1,4 @@
-@startuml Chantier
+@startuml
 
 usecase c as "gérer les chantiers"
 usecase a as "gérer les artisans"
