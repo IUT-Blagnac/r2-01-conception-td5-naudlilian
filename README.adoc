@@ -143,10 +143,6 @@ inclut dans plusieurs UC. Si ce n'est pas le cas, il est généralement englobé
 . ajouter les relations
 . finaliser les diagrammes de cas d'utilisation
 
-== Exercices
-
-WARNING: Les diagrammes sont à réaliser comme les TD précédents, en utilisant votre éditeur en ligne (GitPod conseillé) ou en local si vous savez ensuite "pousser" vos modifications locales vers le dépôt distant (commandes add, commit, push)
-
 === Description du sujet
 
 Une entreprise de construction souhaite informatiser la gestion de ses chantiers.
