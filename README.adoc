@@ -30,11 +30,11 @@ Ce TP vise à reprendre les diagrammes des UC et les lier avec le diagramme de c
 
 == À propos...
 
-NOM:: DOE
+NOM:: NAUD
 
-Prénom:: John
+Prénom:: Lilian
 
-Groupe #::
+Groupe:: 2B
 
 [%interactive]
 - [X] Enseignants
@@ -143,9 +143,7 @@ inclut dans plusieurs UC. Si ce n'est pas le cas, il est généralement englobé
 . ajouter les relations
 . finaliser les diagrammes de cas d'utilisation
 
-== Exercices
-
-WARNING: Les diagrammes sont à réaliser comme les TD précédents, en utilisant votre éditeur en ligne (GitPod conseillé) ou en local si vous savez ensuite "pousser" vos modifications locales vers le dépôt distant (commandes add, commit, push)
+=== Exercices
 
 === Description du sujet
 
