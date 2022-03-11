@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="305px" preserveAspectRatio="none" style="width:615px;height:305px;background:#FFFFFF;" version="1.1" viewBox="0 0 615 305" width="615px" zoomAndPan="magnify"><defs/><g><!--MD5=[e5da348f9a286ac789819f64e84f1dc7]
+class Entreprise--><g id="elem_Entreprise"><rect codeLine="1" fill="#F1F1F1" height="74.8906" id="Entreprise" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="162" x="7" y="39.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="50" y="57.4951">Entreprise</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="168" y1="65.7969" y2="65.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="113" x="13" y="82.792">int nbEmployes</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="168" y1="90.0938" y2="90.0938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="150" x="13" y="107.0889">public calculerPaies()</text></g><!--MD5=[7231450f633845da6e92cf0373678125]
+class Chantier--><g id="elem_Chantier"><rect codeLine="5" fill="#F1F1F1" height="91.1875" id="Chantier" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="138" x="470" y="31.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="508" y="49.4951">Chantier</text><line style="stroke:#181818;stroke-width:0.5;" x1="471" x2="607" y1="57.7969" y2="57.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="476" y="74.792">String dateDebut</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="476" y="91.0889">String dateFin</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="103" x="476" y="107.3857">String adresse</text><line style="stroke:#181818;stroke-width:0.5;" x1="471" x2="607" y1="114.6875" y2="114.6875"/></g><!--MD5=[e8de2477f0619782a88ba6174d99456f]
+class Artisan--><g id="elem_Artisan"><rect codeLine="10" fill="#F1F1F1" height="140.0781" id="Artisan" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="191" x="204.5" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="274.5" y="24.9951">Artisan</text><line style="stroke:#181818;stroke-width:0.5;" x1="205.5" x2="394.5" y1="33.2969" y2="33.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141" x="210.5" y="50.292">String coordonnees</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="136" x="210.5" y="66.5889">float salaireHoraire</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="210.5" y="82.8857">String competence</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="210.5" y="99.1826">String disponibilite</text><line style="stroke:#181818;stroke-width:0.5;" x1="205.5" x2="394.5" y1="106.4844" y2="106.4844"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="168" x="210.5" y="123.4795">public getPayeArtisan()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="179" x="210.5" y="139.7764">public affecterChantier()</text></g><!--MD5=[04d440ec53fb2cc018de6d91273d6939]
+class Affecter--><g id="elem_Affecter"><rect codeLine="19" fill="#F1F1F1" height="91.1875" id="Affecter" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="168" x="349" y="207"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61" x="402.5" y="224.9951">Affecter</text><line style="stroke:#181818;stroke-width:0.5;" x1="350" x2="516" y1="233.2969" y2="233.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="150" x="355" y="250.292">int heuresEffectuees</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="156" x="355" y="266.5889">String dateDebutMiss</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="355" y="282.8857">String dateFinMiss</text><line style="stroke:#181818;stroke-width:0.5;" x1="350" x2="516" y1="290.1875" y2="290.1875"/></g><ellipse cx="433" cy="77" fill="#000000" rx="2" ry="2" style="stroke:none;stroke-width:1.0;"/><!--MD5=[999d3a71a13946b33ccd025dcfd447ca]
+link Artisan to apoint442196--><g id="link_Artisan_apoint442196"><path d="M395.594,77 C407.381,77 419.167,77 430.954,77 " fill="none" id="Artisan-apoint442196" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="400.0196" y="71.9965">0..*</text></g><!--MD5=[e4e1a4b34455f18a2ae59347a00bf7e5]
+link apoint442196 to Chantier--><g id="link_apoint442196_Chantier"><path d="M435.07,77 C446.708,77 458.346,77 469.984,77 " fill="none" id="apoint442196-Chantier" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="442.8991" y="71.5377">0..*</text></g><!--MD5=[322abc4c54eb35f74fd669440b5ca2cf]
+link apoint442196 to Affecter--><g id="link_apoint442196_Affecter"><path d="M433,79.108 C433,88.747 433,159.172 433,206.9744 " fill="none" id="apoint442196-Affecter" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/></g><!--MD5=[73a869ac549d56a3a03d5079437b2a26]
+link Entreprise to Artisan--><g id="link_Entreprise_Artisan"><path codeLine="27" d="M169.156,77 C180.912,77 192.667,77 204.423,77 " fill="none" id="Entreprise-Artisan" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="24" x="172.5295" y="73.1401">0..1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="23" x="173.5595" y="89.6197">0..*</text></g><!--MD5=[cbc95467a421e988311d81bec14a9372]
+@startuml
+class Entreprise {
+    int nbEmployes
+    public calculerPaies()
+}
+class Chantier {
+    String dateDebut
+    String dateFin
+    String adresse
+}
+class Artisan {
+    String coordonnees
+    float salaireHoraire
+    String competence
+    String disponibilite
+    
+    public getPayeArtisan() 
+    public affecterChantier()
+}
+class Affecter {
+    int heuresEffectuees
+    String dateDebutMiss
+    String dateFinMiss
+}
+Artisan "0..*" - "0..*" Chantier    
+(Artisan, Chantier) .. Affecter
+
+Entreprise "0..1" - "0..*" Artisan
+
+hide circle
+@enduml
+
+PlantUML version 1.2022.3beta2(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
